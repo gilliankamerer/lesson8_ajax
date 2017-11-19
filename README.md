@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11-18-17
 
 ### Student Name:  
-(First and Last Name)
+Gillian Kamerer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment's purpose is to teach students about AJAX (allows user to interact with data) and JSON (syntax for storing and exchanging data).
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JSON is commonly used to translate Javascript and display it on a web page. 
+2. AJAX is widely used, and eliminates the need to reload a web page to change aspects of the page.
+3. Popular websites such as Google and Amazon use AJAX to aid users in finding new things.
