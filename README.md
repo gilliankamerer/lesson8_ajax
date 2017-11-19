@@ -13,8 +13,7 @@ Gillian Kamerer
 This assignment's purpose is to teach students about AJAX (allows user to interact with data) and JSON (syntax for storing and exchanging data).
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gilliankamerer.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. JSON is commonly used to translate Javascript and display it on a web page. 
